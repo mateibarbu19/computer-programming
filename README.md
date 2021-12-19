@@ -1,6 +1,3 @@
-# computer-programming
-This repo provides homework solutions for the Computer Programming course taught at Politehnica University of Bucharest. 
-
 # Computer Programming
 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/The_C_Programming_Language_logo.svg/800px-The_C_Programming_Language_logo.svg.png">
